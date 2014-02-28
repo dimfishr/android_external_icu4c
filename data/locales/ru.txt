@@ -325,8 +325,8 @@ ru{
         }
         gregorian{
             AmPmMarkers{
-                "до полудня",
-                "после полудня",
+                "дп",
+                "пп",
             }
             DateTimePatterns{
                 "H:mm:ss zzzz",
