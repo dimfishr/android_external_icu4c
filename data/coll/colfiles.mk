@@ -59,7 +59,7 @@ COLLATION_EMPTY_SOURCE = af_NA.txt af_ZA.txt ar_001.txt ar_AE.txt\
  en_LR.txt en_LS.txt en_MG.txt en_MH.txt en_MP.txt\
  en_MT.txt en_MU.txt en_MW.txt en_NA.txt en_NG.txt\
  en_NZ.txt en_PG.txt en_PH.txt en_PK.txt en_PR.txt\
- en_PW.txt en_SB.txt en_SC.txt en_SG.txt en_SL.txt\
+ en_PW.txt en_RU.txt en_SB.txt en_SC.txt en_SG.txt en_SL.txt\
  en_SS.txt en_TC.txt en_TO.txt en_TT.txt en_TZ.txt\
  en_UG.txt en_UM.txt en_VC.txt en_VG.txt en_VI.txt\
  en_VU.txt en_WS.txt en_ZA.txt en_ZM.txt en_ZW.txt\

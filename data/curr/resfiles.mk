@@ -68,7 +68,7 @@ CURR_SOURCE = af.txt af_NA.txt agq.txt ak.txt\
  en_KI.txt en_KN.txt en_KY.txt en_LC.txt en_LR.txt\
  en_LS.txt en_MG.txt en_MT.txt en_MU.txt en_MW.txt\
  en_NA.txt en_NG.txt en_NZ.txt en_PG.txt en_PH.txt\
- en_PK.txt en_SB.txt en_SC.txt en_SG.txt en_SL.txt\
+ en_PK.txt en_RU.txt en_SB.txt en_SC.txt en_SG.txt en_SL.txt\
  en_SS.txt en_SZ.txt en_TO.txt en_TT.txt en_TZ.txt\
  en_US.txt\
  en_UG.txt en_VC.txt en_VU.txt en_WS.txt en_ZA.txt\
